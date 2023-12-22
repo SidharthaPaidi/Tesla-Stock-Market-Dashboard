@@ -17,7 +17,7 @@ Tesla Stock Trade Dashboard is a web application that provides a user-friendly i
 - Bootstrap
 - JavaScript
 - Google Charts
-- AlphaVentage is used for fetching live stock data (Replace CWZM20VHC0WG0X31 ley with the actual name of the API you're using)
+- AlphaVentage is used for fetching live stock data (Replace CWZM20VHC0WG0X31 key with the actual name of the API you're using)
 
 ## Setup
 
@@ -47,5 +47,5 @@ Replace `CWZM20VHC0WG0X31` in the code with your actual API key. This key is req
 
 ```javascript
 // Example API Key Configuration in JavaScript
-const apiKey = 'YOUR_API_KEY';
+const apiKey = 'CWZM20VHC0WG0X31';
 // Replace 'CWZM20VHC0WG0X31' with your actual API key
