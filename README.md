@@ -31,7 +31,7 @@ Tesla Stock Trade Dashboard is a web application that provides a user-friendly i
 2. Obtain an API key:
 
     - Visit [https://www.alphavantage.co/] to obtain your API key.
-    - Copy the API key and replace `[YOUR_API_KEY]` in the code with your actual key.
+    - Copy the API key and replace `CWZM20VHC0WG0X31` in the code with your actual key.
 
 3. Open `index.html` in your web browser or deploy the project to a web server.
 
@@ -43,7 +43,7 @@ Tesla Stock Trade Dashboard is a web application that provides a user-friendly i
 
 ## API Key Configuration
 
-Replace `[YOUR_API_KEY]` in the code with your actual API key. This key is required for fetching live stock data.
+Replace `CWZM20VHC0WG0X31` in the code with your actual API key. This key is required for fetching live stock data.
 
 ```javascript
 // Example API Key Configuration in JavaScript
