@@ -21,12 +21,12 @@ Tesla Stock Trade Dashboard is a web application that provides a user-friendly i
 
 ## Website Link
 
-Visit the [Tesla Stock Trade Dashboard](https://your-website-url.com) to explore real-time Tesla stock data through an intuitive and user-friendly interface.
+Visit the [Tesla Stock Trade Dashboard](https://sidharthapaidi.github.io/Tesla-Stock-Market-Dashboard/) to explore real-time Tesla stock data through an intuitive and user-friendly interface.
 
-## Screenshots
+<!--## Screenshots
 
-![Dashboard Overview](/path/to/screenshot.png)
-<!-- Add more screenshots as needed -->
+![Dashboard Overview](/Screenshot(3).png)
+ Add more screenshots as needed -->
 
 
 ## Setup
