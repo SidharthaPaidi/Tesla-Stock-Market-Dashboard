@@ -19,6 +19,16 @@ Tesla Stock Trade Dashboard is a web application that provides a user-friendly i
 - Google Charts
 - AlphaVentage is used for fetching live stock data (Replace CWZM20VHC0WG0X31 key with the actual name of the API you're using)
 
+## Website Link
+
+Visit the [Tesla Stock Trade Dashboard](https://your-website-url.com) to explore real-time Tesla stock data through an intuitive and user-friendly interface.
+
+## Screenshots
+
+![Dashboard Overview](/path/to/screenshot.png)
+<!-- Add more screenshots as needed -->
+
+
 ## Setup
 
 1. Clone the repository:
